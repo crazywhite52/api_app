@@ -1,0 +1,1 @@
+<div class="navbar navbar-default navbar-fixed-bottom col-md-10 col-md-offset-1 text-center">
